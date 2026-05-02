@@ -1,65 +1,75 @@
-# 👋 Hi, I'm Abdalah (ApoCan)
+<div align="center">
 
-**Operations & AI automation lead based in Istanbul.**
-Trilingual builder · n8n + LLM systems · CRM and growth ops · Arabic-first products.
+# hey, I'm Abdalah 👋
 
----
+**I build AI automations that actually work in production.**
 
-### 🛠️ What I do
+n8n · LLM agents · React Native · ops systems · Arabic-first products
 
-- **Ship AI automation that pays for itself** — n8n + Claude/OpenAI workflows that handle real customer-service load and lead generation in production.
-- **Build operations systems** — Notion-as-OS, CRM pipelines, analytics dashboards, SOP libraries.
-- **Run growth** — paid social (Meta, X), bilingual content, community building.
-- **Code where it matters** — TypeScript, React Native (Expo), Express, Anthropic SDK.
+*Istanbul, Türkiye 🇹🇷 · EN / AR / TR*
 
----
+[![Portfolio](https://img.shields.io/badge/tasaahil.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://tasaahil.com)
+[![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdalahalbatsh@gmail.com)
 
-### 🚀 Currently building
-
-- 🤖 **[Ya Mama](https://github.com/aiapocan/yamama)** — Arabic-first AI family chat app. Expo + React Native + Express + Anthropic Claude streaming.
-- 🔁 **[n8n Automation Workflows](https://github.com/aiapocan/n8n-workflows)** — Production-grade automation: WhatsApp bots, lead generation, RAG, AI agents.
-- 🏢 **Tasaahil** ([tasaahil.com](https://tasaahil.com)) — automation studio building n8n workflows and AI agents for SMBs (lead gen, customer support, CRM).
-- 🏨 **Tahayyul Travel & Tourism** — operations and AI tooling for a 900+ reservation pipeline.
+</div>
 
 ---
 
-### 💼 Recent impact
+## what I actually do
 
-- 📈 **35% MoM sales growth** over 3 months at Tahayyul through GTM rebuild + paid social
-- 🤖 **~50% cut in support workload** via an n8n + LLM automation bot in production
-- ⏱️ **80% faster issue resolution** in a prior support role through systematic triage
-- ⭐ **95% CSAT** across a year of customer support tickets
-- 🗂️ **900+ leads** tracked in a CRM I designed and operate daily
+I automate things that used to take humans hours — and I ship them into production, not just demos.
+
+- 🤖 **AI bots in production** — WhatsApp + Telegram support bots running on n8n + LLM, handling real customer load daily
+- 📈 **Lead generation pipelines** — Google Maps scraping, enrichment, scoring, CRM push, all automated
+- 🧠 **RAG systems** — document ingestion, vector search, retrieval-augmented answers over business knowledge bases
+- 📱 **Mobile apps** — Arabic-first React Native apps with Expo, wired to Claude streaming APIs
+- 🗂️ **Ops infrastructure** — CRM design, SOP systems, analytics dashboards, Notion-as-OS
 
 ---
 
-### 🧰 Tech I reach for
+## projects
+
+### 🤖 [Ya Mama](https://github.com/aiapocan/yamama) — Arabic-first AI family chat app
+> Expo · React Native · Express · Anthropic Claude streaming · TypeScript
+
+Multi-character AI chat in Arabic. RTL-native UI, Cairo font, Claude streaming over SSE, voice input. Built in weeks, not months.
+
+### 🔁 [n8n Automation Workflows](https://github.com/aiapocan/n8n-workflows) — 22 production workflows
+> n8n · OpenAI · WhatsApp Business API · Pinecone · Google Maps · SerpAPI
+
+Real workflows from real operations: WhatsApp bots, lead gen (V1 → V2), RAG pipelines, AI agents, daily ops automation. Versioned, battle-tested.
+
+---
+
+## numbers that matter
+
+| metric | result |
+|--------|--------|
+| Sales growth (3 months) | **+35% MoM** |
+| Support workload cut by automation | **~50%** |
+| Issue resolution speed improvement | **80% faster** |
+| Customer satisfaction score | **95% CSAT** |
+| Leads tracked in self-built CRM | **900+** |
+
+---
+
+## stack
 
 ```
-AI / Automation     n8n  ·  Anthropic SDK  ·  OpenAI APIs  ·  Prompt engineering
-Mobile              React Native  ·  Expo Router  ·  TypeScript  ·  Zustand
-Backend             Node.js  ·  Express  ·  TypeScript  ·  REST  ·  Streaming SSE
-Ops                 Notion  ·  ClickUp  ·  Zoho  ·  Zendesk  ·  Sprout Social
-Design              Figma  ·  Adobe XD  ·  Canva
-Marketing           Meta Ads  ·  X Ads  ·  Google Analytics  ·  Growth hacking
+automation     n8n  ·  Make  ·  Zapier
+AI / LLMs      Anthropic Claude  ·  OpenAI  ·  prompt engineering  ·  RAG
+mobile         React Native  ·  Expo Router  ·  TypeScript  ·  Zustand
+backend        Node.js  ·  Express  ·  TypeScript  ·  streaming SSE
+ops            Notion  ·  ClickUp  ·  Zoho  ·  Zendesk  ·  Sprout Social
+marketing      Meta Ads  ·  X Ads  ·  Google Analytics
 ```
 
 ---
 
-### 🌍 Languages
+<div align="center">
 
-- 🇸🇦 **Arabic** — Native
-- 🇬🇧 **English** — C1 (advanced, written + spoken)
-- 🇹🇷 **Turkish** — Professional working
+*"Ship first. Measure everything. Then ship again."*
 
----
+**→ [tasaahil.com](https://tasaahil.com) · [abdalahalbatsh@gmail.com](mailto:abdalahalbatsh@gmail.com)**
 
-### 📫 How to reach me
-
-- ✉️ **Email:** abdalahalbatsh@gmail.com
-- 🌐 **Portfolio / Tasaahil:** [tasaahil.com](https://tasaahil.com)
-- 📍 **Based in:** Istanbul, Türkiye
-
----
-
-> *"I ship, measure, and own outcomes. If the result isn't a number, I don't count it as done."*
+</div>
