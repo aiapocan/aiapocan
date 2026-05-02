@@ -1,75 +1,83 @@
 <div align="center">
 
-# hey, I'm Abdalah 👋
+# Abdalah AL Batsh
 
-**I build AI automations that actually work in production.**
+**Senior AI Automation & Agentic Systems Engineer**
 
-n8n · LLM agents · React Native · ops systems · Arabic-first products
+I design and ship agentic AI systems, intelligent workflows, and LLM-powered products that solve real business problems — not prototypes, production systems.
 
-*Istanbul, Türkiye 🇹🇷 · EN / AR / TR*
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdalahalbatsh/)
 [![Portfolio](https://img.shields.io/badge/tasaahil.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://tasaahil.com)
-[![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdalahalbatsh@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdalahalbatsh@gmail.com)
 
 </div>
 
 ---
 
-## what I actually do
+## What I build
 
-I automate things that used to take humans hours — and I ship them into production, not just demos.
+### 🤖 Agentic AI Systems
+Multi-step autonomous agents that reason, use tools, and execute complex tasks with minimal human input. Built on LLMs (Claude, GPT-4) with tool use, memory, and decision logic — not just chatbots.
 
-- 🤖 **AI bots in production** — WhatsApp + Telegram support bots running on n8n + LLM, handling real customer load daily
-- 📈 **Lead generation pipelines** — Google Maps scraping, enrichment, scoring, CRM push, all automated
-- 🧠 **RAG systems** — document ingestion, vector search, retrieval-augmented answers over business knowledge bases
-- 📱 **Mobile apps** — Arabic-first React Native apps with Expo, wired to Claude streaming APIs
-- 🗂️ **Ops infrastructure** — CRM design, SOP systems, analytics dashboards, Notion-as-OS
+### 🔁 Intelligent Workflow Automation
+End-to-end automation pipelines using n8n that replace manual business operations: lead gen, customer support, CRM sync, reporting, outreach — all running 24/7 without babysitting.
 
----
+### 🧠 RAG & Knowledge Systems
+Retrieval-augmented generation pipelines that give AI agents access to business knowledge bases — document ingestion, vector search, semantic retrieval, grounded answers.
 
-## projects
-
-### 🤖 [Ya Mama](https://github.com/aiapocan/yamama) — Arabic-first AI family chat app
-> Expo · React Native · Express · Anthropic Claude streaming · TypeScript
-
-Multi-character AI chat in Arabic. RTL-native UI, Cairo font, Claude streaming over SSE, voice input. Built in weeks, not months.
-
-### 🔁 [n8n Automation Workflows](https://github.com/aiapocan/n8n-workflows) — 22 production workflows
-> n8n · OpenAI · WhatsApp Business API · Pinecone · Google Maps · SerpAPI
-
-Real workflows from real operations: WhatsApp bots, lead gen (V1 → V2), RAG pipelines, AI agents, daily ops automation. Versioned, battle-tested.
+### 📱 AI-Native Products
+Full-stack AI products from API to mobile UI. React Native apps wired to streaming LLM backends, designed for real users from day one.
 
 ---
 
-## numbers that matter
+## Featured work
 
-| metric | result |
-|--------|--------|
-| Sales growth (3 months) | **+35% MoM** |
-| Support workload cut by automation | **~50%** |
-| Issue resolution speed improvement | **80% faster** |
-| Customer satisfaction score | **95% CSAT** |
-| Leads tracked in self-built CRM | **900+** |
+### [Ya Mama](https://github.com/aiapocan/yamama) — AI-native mobile app
+Arabic-first family chat app powered by Anthropic Claude. Streaming responses, multi-character AI personas, voice input, RTL-native UI.
+`Expo` `React Native` `TypeScript` `Anthropic SDK` `Express` `Zustand`
+
+### [n8n Automation Workflows](https://github.com/aiapocan/n8n-workflows) — 22 production workflows
+Real automation systems: AI-powered WhatsApp & Telegram bots, multi-version lead generation pipelines, RAG document systems, agentic task runners, daily ops automation.
+`n8n` `OpenAI` `WhatsApp Business API` `Pinecone` `Google Maps API` `SerpAPI`
 
 ---
 
-## stack
+## Results delivered
+
+| What | Impact |
+|------|--------|
+| AI support bot replacing manual workload | **~50% reduction in support hours** |
+| Sales pipeline rebuild with automation | **+35% MoM growth over 3 months** |
+| Automated triage & resolution system | **80% faster issue resolution** |
+| Customer satisfaction across 1 year | **95% CSAT** |
+| Leads managed in self-built CRM | **900+ active leads** |
+
+---
+
+## Stack
 
 ```
-automation     n8n  ·  Make  ·  Zapier
-AI / LLMs      Anthropic Claude  ·  OpenAI  ·  prompt engineering  ·  RAG
-mobile         React Native  ·  Expo Router  ·  TypeScript  ·  Zustand
-backend        Node.js  ·  Express  ·  TypeScript  ·  streaming SSE
-ops            Notion  ·  ClickUp  ·  Zoho  ·  Zendesk  ·  Sprout Social
-marketing      Meta Ads  ·  X Ads  ·  Google Analytics
+Agentic AI      Claude · GPT-4 · tool use · multi-step reasoning · memory systems
+Automation      n8n · Make · Zapier · webhook orchestration · error handling
+RAG             Pinecone · vector embeddings · document loaders · semantic search
+Mobile          React Native · Expo Router · TypeScript · Zustand
+Backend         Node.js · Express · TypeScript · streaming SSE · REST APIs
+Integrations    WhatsApp Business API · Telegram · Google APIs · SerpAPI · SMTP
+Ops & CRM       Notion · ClickUp · Zoho · Zendesk · Sprout Social
 ```
+
+---
+
+## How I think about automation
+
+Most automation fails because people automate tasks, not outcomes. I start from the business result — reduced cost, faster response, more revenue — then work backwards to design the system. Every workflow I ship has error handling, monitoring, and a way to measure whether it's actually working.
 
 ---
 
 <div align="center">
 
-*"Ship first. Measure everything. Then ship again."*
+**Open to consulting, contract, and full-time roles in AI automation & agentic systems.**
 
-**→ [tasaahil.com](https://tasaahil.com) · [abdalahalbatsh@gmail.com](mailto:abdalahalbatsh@gmail.com)**
+[linkedin.com/in/abdalahalbatsh](https://www.linkedin.com/in/abdalahalbatsh/) · [tasaahil.com](https://tasaahil.com) · [abdalahalbatsh@gmail.com](mailto:abdalahalbatsh@gmail.com)
 
 </div>
